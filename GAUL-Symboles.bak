@@ -96,7 +96,6 @@
       )
     )
   )
-
   (symbol "H3LIS100DLTR" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -12.7 13.589 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
